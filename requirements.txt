@@ -1,0 +1,5 @@
+attrs==23.2.0
+jsonlines==4.0.0
+PyMuPDF==1.24.5
+PyMuPDFb==1.24.3
+tk==0.1.0
